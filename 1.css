@@ -1,0 +1,22 @@
+h1{
+    color: aquamarine;
+}
+*{
+    border: solid;
+}
+
+h3{
+    color: chartreuse;
+}
+
+.Lewis{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+}
+
+.bottas{
+    background-color: peru;
+    display: flex;
+    justify-content: space-between;
+}
